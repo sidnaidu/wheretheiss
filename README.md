@@ -3,6 +3,10 @@ This repository has a .json(collection) file which can be executed using Postman
 You can download Postman from the below mentioned location - 
 https://www.postman.com/downloads/
 
+Note: The collection file can also be run on the command line with Newman. 
+You can follow the instructions from this location - 
+https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+
 # How to import a collection in Postman
 1. To open the Postman application, click on its icon on the taskbar. 
 
