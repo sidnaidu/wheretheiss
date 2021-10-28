@@ -43,3 +43,4 @@ Note - When the tests fail in the Health Monitor, an email is shared by Postman 
 # Suggestions to improve the APIs - 
 1. The APIs should be load tested to understand how the performance of the application can be affected by normal and peak load. 
    Based on the results of the load test, the API servers will have to be upgraded. 
+2. The /satellite API should also have an optional parameter, &units=miles, to have the response in Miles instead of Kilometers. 
