@@ -21,6 +21,8 @@ https://www.postman.com/downloads/
 
 ![image](https://user-images.githubusercontent.com/54844281/139203296-5fbf6e3b-80d5-452a-bc9f-5e27d97b13ad.png)
 
+Note: This collection also has a 'Monitor' in place which runs the entire suite at regular intervals to check the health of the APIs(see the below image): 
+![image](https://user-images.githubusercontent.com/54844281/139247318-c4b68ff1-719a-48b6-9d2d-a4ed87faadec.png)
 
 # Issues found while using the APIs - 
 1. While running the tests multiple times, I found the below intermittent issue: 
